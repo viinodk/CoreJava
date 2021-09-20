@@ -14,7 +14,7 @@ public class capitalizeString {
 	}  
 
 	public static void main(String[] args) {
-		System.out.println(capitalizeString.capitalizeWord("my name is khan"));  
+		System.out.println(capitalizeString.capitalizeWord("my name is baba creations"));  
 	    System.out.println(capitalizeString.capitalizeWord("I am sonoo jaiswal"));
 	}
 
